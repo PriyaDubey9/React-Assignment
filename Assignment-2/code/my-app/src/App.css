@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+.title h1{
+  color:#61dafb
+}
+.profile-info1{
+margin-top: 20px;
+}
+.Profile-image-container{
+  margin-top: 10px;
+  }
+  .profile-info1 label{
+  font-size: 13px;
+  color:lightgray  
+  }
